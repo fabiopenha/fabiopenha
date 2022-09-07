@@ -2,8 +2,7 @@
 
 - 🔭 Hoje eu trabalho como desenvolvedor fullstack
 - 🌱 Estudando NextJS com TypeScript
-- 💬 Contate-me no em-mail: fabiopenha95@outlook.com
-- 😄 Pronouns: ele/dele
+- 💬 Contate-me no e-mail: fabiopenha95@outlook.com
           
 
 <div>
