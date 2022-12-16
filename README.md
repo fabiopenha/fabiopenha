@@ -1,7 +1,6 @@
 ## Olá, mundo! Eu sou o Fábio Penha 👋
 
-- 🔭 Hoje eu trabalho como desenvolvedor fullstack
-- 🌱 Estudando NextJS com TypeScript
+- 🔭 Hoje eu desenvolvo projetos fullstack utilizando Javascript
 - 💬 Contate-me no e-mail: fabiopenha95@outlook.com
           
 
