@@ -1,6 +1,6 @@
 ## Olá, mundo! Eu sou o Fábio Penha 👋
 
-- 🔭 Hoje eu desenvolvo projetos fullstack utilizando Javascript
+- 🔭 Hoje eu desenvolvo projetos fullstack utilizando Java
 - 💬 Contate-me no e-mail: fabiopenha95@outlook.com
           
 
@@ -11,7 +11,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" src="https://skills.thijs.gg/icons?i=java,js,ts,nodejs,react,postgres,mysql&theme=light" />
+  <img align="center" src="https://skills.thijs.gg/icons?i=java,js,ts,nodejs,react,postgres,mysql&theme=dark" />
 </div>
 
 
