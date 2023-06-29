@@ -3,7 +3,7 @@
 - 🔭 Hoje eu desenvolvo projetos fullstack utilizando Java
 - 💬 Contate-me no e-mail: fabiopenha95@outlook.com
           
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiopenha&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/fabiopenha/fabiopenha/blob/master/README.md)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiopenha&show_icons=true&theme=dracula&include_all_commits)](https://github.com/fabiopenha/fabiopenha/blob/master/README.md)
 
 <div style="display: inline_block"><br>
   <img align="center" src="https://skills.thijs.gg/icons?i=java,js,ts,nodejs,react,postgres,mysql&theme=dark" />
